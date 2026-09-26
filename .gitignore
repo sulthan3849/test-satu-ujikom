@@ -1,14 +1,8 @@
-node_modules/
-.env
-.env.*
+# PHP
 *.log
-__pycache__/
-*.pyc
-.venv/
-venv/
-Thumbs.db
+.env
+config.local.php
+
+# OS
 .DS_Store
-.vscode/
-.idea/
-dist/
-build/
+Thumbs.db
